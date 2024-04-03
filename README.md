@@ -1,3 +1,1 @@
-# fuzzy-logic
-
-
+Logika fuzzy adalah cabang dari kecerdasan buatan yang berfokus pada penanganan ketidakpastian dalam pemrosesan informasi. Sementara logika klasik menggunakan nilai biner (1 atau 0, benar atau salah) untuk menggambarkan keanggotaan dalam suatu himpunan, logika fuzzy menggunakan nilai yang berada di antara 0 dan 1 untuk menyatakan sejauh mana suatu elemen termasuk dalam himpunan. Dengan kata lain, logika fuzzy memungkinkan kita untuk menggambarkan dan memproses konsep yang ambigu atau tidak pasti dalam cara yang lebih alami.
